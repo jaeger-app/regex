@@ -17,7 +17,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "JaegerApp\\Regex\\": "src/Regex.php"
+            "JaegerApp\\": "src/"
         }
     }
 }
