@@ -1,19 +1,18 @@
 <?php
 /**
- * mithra62
+ * Jaeger
  *
- * @author		Eric Lamb <eric@mithra62.com>
- * @copyright	Copyright (c) 2015, mithra62, Eric Lamb.
- * @link		http://mithra62.com/
+ * @copyright	Copyright (c) 2015-2016, mithra62
+ * @link		http://jaeger-app.com
  * @version		1.0
- * @filesource 	./mithra62/Exceptions/RegexException.php
+ * @filesource 	./Exceptions/RegexException.php
  */
-namespace mithra62\Exceptions;
+namespace JaegerApp\Exceptions;
 
-use mithra62\Exception;
+use JaegerApp\Exception;
 
 /**
- * mithra62 - Regex Exception Object
+ * Jaeger - Regex Exception Object
  *
  * Handles exceptions from the Regex object
  *
